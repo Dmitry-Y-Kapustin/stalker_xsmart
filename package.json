@@ -1,0 +1,23 @@
+{
+	"name": "XSMART",
+	"date": "2017.01.11",
+	"version": "1.0.0",
+	"description": "XSMART",
+	"author": {
+		"name": "kigakree"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kigakree/stalker_xsmart.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "XSMART",
+		"legacy": true,
+		"description": "",
+		"backgroundColor": "#292f37",
+		"icons": "icons"
+	}
+}
